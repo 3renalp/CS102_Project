@@ -28,6 +28,7 @@ public class GitHubAssignment2{
                     if(arr[i] <= min){
                         min = arr[i];
                     }
+                    //append element to array
                     if(arr[i] >= max){
                         max = arr[i];
                     }
